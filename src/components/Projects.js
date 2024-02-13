@@ -21,8 +21,8 @@ const projectData = [
         "title": "Market2U",
         "pic": market2u,
         "alt": "thumbnail of market2u project",
-        "skills": "Brain Strokes Prediction, Data Analytics, Machine Learning",
-        "url" : "https://github.com/AdityaKhot/BrainStrokePrediction/"
+        "skills": "MicroService_Hack, Cloud, Jenkins, CI/CD Pipeline",
+        "url" : "https://github.com/AdityaKhot/MicroService_Hack/"
       },
 
       {
@@ -37,8 +37,8 @@ const projectData = [
         "title": "TOBY",
         "pic": toby,
         "alt": "thumbnail of toby project",
-        "skills": "MicroService_Hack, Cloud, Jenkins, CI/CD Pipeline",
-        "url" : "https://github.com/AdityaKhot/MicroService_Hack/"
+        "skills": "Brain Strokes Prediction, Data Analytics, Machine Learning",
+        "url" : "https://github.com/AdityaKhot/BrainStrokePrediction/"
       },
 
       {

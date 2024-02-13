@@ -21,7 +21,7 @@ const projectData = [
         "title": "Market2U",
         "pic": market2u,
         "alt": "thumbnail of market2u project",
-        "skills": "responsive design, ux/ui design",
+        "skills": "Brain Strokes Prediction, Data Analytics, Machine Learning",
         "url" : "https://github.com/AdityaKhot/BrainStrokePrediction/"
       },
 

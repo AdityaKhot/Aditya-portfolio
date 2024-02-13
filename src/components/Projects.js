@@ -29,7 +29,7 @@ const projectData = [
         "title": "Vagary",
         "pic": vagary,
         "alt": "thumbnail of vagary project",
-        "skills": "ux research, ux design",
+        "skills": "ClimateSmartAG, Globalwarming Prediction, data analytics, ml",
         "url" : "https://github.com/AdityaKhot/Analyzing-and-Predicting-the-GHG-Emission-from-Agro-Activities-using-ML-Models/"
       },
 
@@ -37,7 +37,7 @@ const projectData = [
         "title": "TOBY",
         "pic": toby,
         "alt": "thumbnail of toby project",
-        "skills": "cui design, ux design",
+        "skills": "MicroService_Hack, Cloud, Jenkins, CI/CD Pipeline",
         "url" : "https://github.com/AdityaKhot/MicroService_Hack/"
       },
 
@@ -45,7 +45,7 @@ const projectData = [
         "title": "Heuristicats",
         "pic": heuristicats,
         "alt": "thumbnail of heuristicats project",
-        "skills": "game art, educational game design",
+        "skills": "Video Streaming App, Docker, Kubernetes, DevOps",
         "url" : "https://github.com/AdityaKhot/DevOps_miniproject/"
       }
 ]

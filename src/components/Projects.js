@@ -20,7 +20,7 @@ const projectData = [
     {
         "title": "Market2U",
         "pic": market2u,
-        "alt": "thumbnail of market2u project",
+        "alt": "thumbnail of MicroService_Hack project",
         "skills": "MicroService_Hack, Cloud, Jenkins, CI/CD Pipeline",
         "url" : "https://github.com/AdityaKhot/MicroService_Hack/"
       },
@@ -28,7 +28,7 @@ const projectData = [
       {
         "title": "Vagary",
         "pic": vagary,
-        "alt": "thumbnail of vagary project",
+        "alt": "thumbnail of ClimateSmartAG project",
         "skills": "ClimateSmartAG, Globalwarming Prediction, data analytics, ml",
         "url" : "https://github.com/AdityaKhot/Analyzing-and-Predicting-the-GHG-Emission-from-Agro-Activities-using-ML-Models/"
       },
@@ -36,7 +36,7 @@ const projectData = [
       {
         "title": "TOBY",
         "pic": toby,
-        "alt": "thumbnail of toby project",
+        "alt": "thumbnail of Brain Stroke Prediction project",
         "skills": "Brain Strokes Prediction, Data Analytics, Machine Learning",
         "url" : "https://github.com/AdityaKhot/BrainStrokePrediction/"
       },
@@ -44,7 +44,7 @@ const projectData = [
       {
         "title": "Heuristicats",
         "pic": heuristicats,
-        "alt": "thumbnail of heuristicats project",
+        "alt": "thumbnail of Video_Stream project",
         "skills": "Video Streaming App, Docker, Kubernetes, DevOps",
         "url" : "https://github.com/AdityaKhot/DevOps_miniproject/"
       }
